@@ -1,2 +1,3 @@
-# streamlit-app
-Build an application with usellm to answer Q's based on input embeddings and use streamlit to build interface.
+# UseLLM with Streamlit 
+
+Build a streamlit application with usellm to answer Q's based on input embeddings.
